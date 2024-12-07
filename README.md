@@ -1,2 +1,2 @@
 # CSS-BASIC
-basic file for html &amp; css
+basic file for html &amp; css.
